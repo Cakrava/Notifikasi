@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164369685723",
+    "project_id": "notifikasi-4724b",
+    "storage_bucket": "notifikasi-4724b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164369685723:android:5c2fe34eb8183b8c3a00fe",
+        "android_client_info": {
+          "package_name": "com.celestial.notifikasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUkPEzfCpZnU37re2V8K-sTTzpECsBwZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
